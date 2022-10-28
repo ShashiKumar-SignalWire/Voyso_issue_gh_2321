@@ -1,0 +1,6 @@
+{
+    "settings": {
+        "name": "Call center",
+        "database_file": "voyso_issue.db"
+    }
+}
